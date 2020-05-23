@@ -23,7 +23,7 @@ int _tmain(int argc, _TCHAR* argv[])
 	size_t ptrsCount = 0;
 	int a = -1;
 
-	cout << "Lab 2: Modern operation systems\n\nPress:";
+	cout << "Lab 2_OS. @nturko\n\nPress:";
 	while (a != 0)
 	{
 		cout << "\n1 - To test allocator\n";
